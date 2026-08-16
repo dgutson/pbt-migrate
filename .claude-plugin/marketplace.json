@@ -1,0 +1,15 @@
+{
+  "name": "pbt-migrate-marketplace",
+  "description": "Marketplace hosting the pbt-migrate plugin.",
+  "owner": {
+    "name": "Daniel Gutson",
+    "url": "https://github.com/dgutson"
+  },
+  "plugins": [
+    {
+      "name": "pbt-migrate",
+      "source": ".",
+      "description": "Triage an existing pytest or unittest suite and migrate the tests that hide a real property to Hypothesis, leaving the rest alone."
+    }
+  ]
+}

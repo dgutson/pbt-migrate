@@ -1,0 +1,12 @@
+{
+  "name": "pbt-migrate",
+  "description": "Triage an existing pytest or unittest suite and migrate the tests that hide a real property to Hypothesis, leaving the rest alone.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Daniel Gutson"
+  },
+  "homepage": "https://github.com/dgutson/pbt-migrate",
+  "repository": "https://github.com/dgutson/pbt-migrate",
+  "license": "MIT",
+  "keywords": ["hypothesis", "pytest", "property-based-testing", "pbt", "migration", "testing"]
+}
